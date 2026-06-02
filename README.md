@@ -15,6 +15,20 @@
   <a href="https://github.com/AgustinCuevas1/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
 </p>
 
+***
+
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+
+**About Me**
+
+- 👨🏽‍💻  I’m constantly working on something cool :wink:.
+- 🌱  I’m currently learning Css,Html and Javascript!. 
+- 💬  Ask me about anything, I am happy to help.
+- 📫  How to reach me: agustincuevascontacto@gmail.com.
+
+***
+
+
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Skills</h2>
 
@@ -26,7 +40,15 @@
 </span>  
 
 
+### <u>Tools:</u>
 
+<br>
+<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+
+***
 
 **If you think my work is good, consider giving me a :star:, since I do everything from :heart:. That helps me be more motivated!**
 <hr>
@@ -43,3 +65,7 @@
 </p>
 
 
+
+
+-----
+Credits: [Agustin E. Cuevas](https://github.com/AgustinCuevas1)
