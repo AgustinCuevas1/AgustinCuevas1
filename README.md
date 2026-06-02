@@ -3,12 +3,12 @@
 </div>
 
 <h3 align="center">
-  Hola, soy Agustin!
+  Hi, I'm Agustin!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack%20y%20Freelance;Siempre%20aprendiendo%20nuevas%20cosas;Sientete%20libre%20de%20mirar%20mi%20perfil%20%F0%9F%91%80;Contactame%20si%20necesitas%20mi%20ayuda!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack%20and%20Freelance;Always%20learning%20new%20things;Feel%20free%20to%20look%20at%20my%20profile%20%F0%9F%91%80;Contact%20me%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
@@ -16,13 +16,24 @@
 </p>
 
 
+<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Skills</h2>
 
-**Si piensas que mi trabajo es bueno, considera darme una :star:, ya que todo lo hago desde el :heart:. Eso me ayuda a estar mas motivado!.**
+<p>Lenguages</p>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</span>  
+
+
+
+
+**If you think my work is good, consider giving me a :star:, since I do everything from :heart:. That helps me be more motivated!**
 <hr>
 <p align="center">
-   <i>Un problema se puede resolver de 100 maneras diferentes, y siempre hay una manera más fácil de resolverlo.</i>
+   <i>A problem can be solved in 100 different ways, and there is always an easier way to solve it.</i>
    <br>
-   <i>Yo soy el encargado de resolver esos problemas</i>
+   <i>I am the one in charge of solving those problems</i>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
@@ -32,17 +43,3 @@
 </p>
 
 
-<!--
-**AgustinCuevas1/AgustinCuevas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
