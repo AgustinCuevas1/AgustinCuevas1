@@ -47,6 +47,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp Gnu Image Manipulation Program" title="Gimp" height="25" /></span>
+&nbsp;
+
 
 ***
 
@@ -59,8 +62,8 @@
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="mailto:agustincuevascontacto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img></a>
 <br>
 </p>
 
