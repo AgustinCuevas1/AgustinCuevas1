@@ -22,7 +22,7 @@
 **About Me**
 
 - 👨🏽‍💻  I’m constantly working on something cool :wink:.
-- 🌱  I’m currently learning Css,Html and Javascript!. 
+- 🌱  I’m currently learning Javascript!. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: agustincuevascontacto@gmail.com.
 
