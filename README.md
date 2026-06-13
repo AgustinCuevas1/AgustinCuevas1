@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack%20and%20Freelance;Always%20learning%20new%20things;Feel%20free%20to%20look%20at%20my%20profile%20%F0%9F%91%80;Contact%20me%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Frontend%20and%20Freelance;Always%20learning%20new%20things;Feel%20free%20to%20look%20at%20my%20profile%20%F0%9F%91%80;Contact%20me%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
    <i>I am the one in charge of solving those problems</i>
    <br>
 <br>	
-<a target="_blank" href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="www.linkedin.com/in/agustín-exequiel-cuevas-9b035a366"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:agustincuevascontacto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="#"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img></a>
 <br>
